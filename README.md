@@ -1,10 +1,5 @@
-# 📚 PLP MongoDB Week 1 Assignment
-
 ## 🗄️ Project Title
 MongoDB – Data Layer Fundamentals and Advanced Techniques
-
-## 🚀 Objective
-To learn the fundamentals of MongoDB, including CRUD operations, aggregation, indexing, and performance optimization.
 
 ## 📂 Database Details
 Database name: `plp_bookstore`  
