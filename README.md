@@ -1,6 +1,3 @@
-## 🗄️ Project Title
-MongoDB – Data Layer Fundamentals and Advanced Techniques
-
 ## 📂 Database Details
 Database name: `plp_bookstore`  
 Collection name: `books`
